@@ -141,7 +141,8 @@ COMMIT;
 
 
   ////////////////**********************IMAGENES DE PRACTICA 4***********************/////////////////////////////////////////////
-  Un blog es un sitio web en el que se va publicando contenido cada cierto tiempo en forma de artículos (también llamados posts) ordenados por fecha de publicación, así el artículo más reciente aparecerá primero. Desarrollar una aplicación Web para gestionar un Blog. La aplicación debe contar con una página de autenticación de usuario que debe ser verificada en una tabla de la base de datos:
+  
+ Un blog es un sitio web en el que se va publicando contenido cada cierto tiempo en forma de artículos (también llamados posts) ordenados por fecha de publicación, así el artículo más reciente aparecerá primero. Desarrollar una aplicación Web para gestionar un Blog. La aplicación debe contar con una página de autenticación de usuario que debe ser verificada en una tabla de la base de datos:
 
 ![image](https://user-images.githubusercontent.com/66238284/83450794-ee79ed00-a423-11ea-9354-eefd9978d25c.png)
 
