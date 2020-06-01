@@ -140,6 +140,8 @@ COMMIT;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
 
-![image](https://user-images.githubusercontent.com/66238284/83450570-83301b00-a423-11ea-87fe-06c595ee7174.png)
+/////****************IMAGENES DE PROYECTO***********************/////////////////
+
+![image](https://user-images.githubusercontent.com/66238284/83450794-ee79ed00-a423-11ea-9354-eefd9978d25c.png)
 
 
