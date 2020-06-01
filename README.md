@@ -140,8 +140,18 @@ COMMIT;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
 
-/////****************IMAGENES DE PROYECTO***********************/////////////////
+  ////////////////**********************IMAGENES DE PRACTICA 4***********************/////////////////////////////////////////////
+  Un blog es un sitio web en el que se va publicando contenido cada cierto tiempo en forma de artículos (también llamados posts) ordenados por fecha de publicación, así el artículo más reciente aparecerá primero. Desarrollar una aplicación Web para gestionar un Blog. La aplicación debe contar con una página de autenticación de usuario que debe ser verificada en una tabla de la base de datos:
 
 ![image](https://user-images.githubusercontent.com/66238284/83450794-ee79ed00-a423-11ea-9354-eefd9978d25c.png)
 
+También, una interfaz para desplegar los posts y las operaciones de Nuevo, Editar y eliminar posts:
+
+![image](https://user-images.githubusercontent.com/66238284/83451062-634d2700-a424-11ea-850a-871b1b4fda75.png)
+
+Las opciones de nuevo y editar posts deben permitir el ingreso de la siguiente información
+
+![image](https://user-images.githubusercontent.com/66238284/83451158-85df4000-a424-11ea-8b50-658c91a0bad7.png)
+
+![image](https://user-images.githubusercontent.com/66238284/83451183-9099d500-a424-11ea-9c02-be6bb7895abc.png)
 
