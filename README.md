@@ -1,5 +1,12 @@
+
+
+
 # TE_practica4
 practica 4 de emergentes
+
+--USUARIO:admin
+--password:12345
+
 ------------------------------------------------------------------------------
 ---------BASE DE DATOS------------------------------------
 -- phpMyAdmin SQL Dump
